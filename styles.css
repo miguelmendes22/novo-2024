@@ -3,4 +3,16 @@ body{
     background-color: rgb(134, 3, 3);
     font-size: 20px;
     font-family: sans-serif;
+    font-size: 33px;
 }         
+header{
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+footer{
+    text-align: center; 
+}
+    
